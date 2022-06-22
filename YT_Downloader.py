@@ -26,7 +26,7 @@ def audio_dwnldr():
         else:
             break
 
-# video_dwnldr()
+video_dwnldr()
 audio_dwnldr()
 
 
